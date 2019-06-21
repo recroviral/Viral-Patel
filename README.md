@@ -1,9 +1,10 @@
-# Hello I'm Viral Patel
+# Create Free Portfolio website using GitHub Pages
 
 Fllow the steps to create your on Beautiful Portfolio Website using GitHub Pages.
 
 ## Prerequisites
-Create you protfolio website using templates, HTML , CSS and Javascript
+-Create GitHub account
+-Create your own protfolio website. Save main html file as index.html
 
 ## Create a repository
 
