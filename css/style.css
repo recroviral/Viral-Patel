@@ -867,7 +867,7 @@ body.offcanvas {
     .blog-entry {
       margin-bottom: 3em; } }
   .blog-entry .blog-img {
-    width: 100%;
+    width: 80%;
     float: left;
     overflow: hidden;
     position: relative;
@@ -875,7 +875,7 @@ body.offcanvas {
     margin-bottom: 25px; }
     .blog-entry .blog-img img {
       position: relative;
-      max-width: 100%;
+      max-width: 80%;
       -webkit-transform: scale(1);
       -moz-transform: scale(1);
       -ms-transform: scale(1);
